@@ -1,0 +1,16 @@
+.foodDetails {
+  font-weight: lighter;
+  list-style-type: none;
+}
+.foodTiles {
+  background-color: rgb(250, 247, 231);
+  border: 1px solid black;
+  font-weight: bold;
+  list-style-type: none;
+  
+}
+
+li.FoodSummary h3 {
+  background-color:blanchedalmond;
+  margin-top: 0%;
+}
